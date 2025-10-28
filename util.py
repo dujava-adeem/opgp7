@@ -13,7 +13,7 @@ def obrat(s):
 
 def main():
     print("V tomto module su nasledovné funkcie:")
-    print(f"- Faktoriál (faktoriál čísla 30 je {faktorial(30)})")
+    print(f"- Faktoriál (faktoriál čísla 20 je {faktorial(30)})")
     print(f"- Fibonacciho číslo (fibonacci na pozícii 20 je {fib(30)})")
     print(f"- Obrátenie reťazca ({obrat("Obrátenie reťazca")})")
 
